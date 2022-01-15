@@ -1,0 +1,26 @@
+{
+  "name": "cli-experiment",
+  "version": "0.0.1",
+  "description": "A CLI app to get my info",
+  "main": "bin/index.js",
+  "bin": {
+    "cli-experiment": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealPrathamesh/mlh-build-cli-demo.git"
+  },
+  "keywords": [
+    "cli",
+    "portfolio"
+  ],
+  "author": "Prathamesh Prabhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therealPrathamesh/mlh-build-cli-demo/issues"
+  },
+  "homepage": "https://github.com/therealPrathamesh/mlh-build-cli-demo#readme"
+}
